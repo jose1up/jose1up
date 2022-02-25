@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+- 🔭 actualmente estoy cursando el ultimo tramo del bootcamp -henry
 
-- 🌱 I’m currently learning  
+- 🌱 actualmente estoy aprendiendo typescript y react navite  
 
-- 👯 I’m looking to collaborate on  
+- 👯 busco colaborar en Proyecto en el lado del Backend
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, JavaScript, Backend 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/https://github.com/jose1up/jose1up?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
