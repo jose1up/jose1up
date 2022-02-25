@@ -5,7 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jose1up/jose1up.https://github.com/jose1up/jose1up)
 
 </p>
 <div size='20px'> ¡Hola! Mi nombre es jose. Gracias por tomarse el tiempo para ver mi perfil de GitHub 😄 
